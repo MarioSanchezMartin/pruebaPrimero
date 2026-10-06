@@ -1,3 +1,4 @@
 Revistas prestadas: 27
 Revistas disponibles: 31
 Revistas reservadas: 6X
+Revistas descatalogadas: 3
